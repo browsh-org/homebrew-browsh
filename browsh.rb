@@ -1,9 +1,9 @@
 class Browsh < Formula
   desc "The modern, text-based browser"
   homepage "https://www.brow.sh"
-  url "https://github.com///releases/download/v1.2.4/browsh_1.2.4_darwin_amd64.tar.gz"
-  version "1.2.4"
-  sha256 "a37ed17507a2cd0b2971561589bce70dd1717ff55357330118a02f3d93f23d44"
+  url "https://github.com/browsh-org/browsh/releases/download/v1.3.2/browsh_1.3.2_darwin_amd64.tar.gz"
+  version "1.3.2"
+  sha256 "9e268f0d753e20896a71dab7b79d292c32dd6aa25ca47ed9130c2c181a79ae7f"
   
   depends_on "firefox"
 
