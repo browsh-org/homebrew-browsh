@@ -1,9 +1,9 @@
 class Browsh < Formula
   desc "The modern, text-based browser"
   homepage "https://www.brow.sh"
-  url "https://github.com/browsh-org/browsh/releases/download/v1.4.7/browsh_1.4.7_darwin_amd64.tar.gz"
-  version "1.4.7"
-  sha256 "06c6461a5fa9a72ef79c6e5bef0e03b38404179b7581e8cf33666b42ab28a4dc"
+  url "https://github.com/browsh-org/browsh/releases/download/v1.4.8/browsh_1.4.8_darwin_amd64.tar.gz"
+  version "1.4.8"
+  sha256 "d73c641e06d0b9c3fa037bae2393b2fb8ca605fec5ae03e1f59bdcd877178966"
 
   def install
     bin.install "browsh"
