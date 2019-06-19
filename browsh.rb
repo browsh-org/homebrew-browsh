@@ -2,11 +2,11 @@
 class Browsh < Formula
   desc "The modern, text-based browser"
   homepage "https://www.brow.sh"
-  version "1.6.3"
+  version "1.6.4"
 
   if OS.mac?
-    url "https://github.com/browsh-org/browsh/releases/download/v1.6.3/browsh_1.6.3_darwin_amd64.tar.gz"
-    sha256 "fa6b57b2deffa445a42f94b98f2c56ecb1902928a821979bdac405b29fbdd6bd"
+    url "https://github.com/browsh-org/browsh/releases/download/v1.6.4/browsh_1.6.4_darwin_amd64.tar.gz"
+    sha256 "1ca4cc0f1f9afd0d149a0f4e3db9ccc187479ab6fa125ab0be99de45a597ff65"
   elsif OS.linux?
   end
 
